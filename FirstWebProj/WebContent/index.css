@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-color: #E6E6FA;
+}
+h3{
+	color: #6495ED;
+}
+p{
+	font-family: "Calibari";
+	font-size: 20px;
+}
