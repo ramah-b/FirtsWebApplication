@@ -3,10 +3,24 @@
 body{
 	background-color: #E6E6FA;
 }
-h3{
+h2{
 	color: #6495ED;
 }
 p{
 	font-family: "Calibari";
-	font-size: 20px;
+	font-size: 15px;
+}
+ul{
+	font-family: "Calibari";
+	font-size: 15px;
+}
+p.ex {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+img{
+	right:0;
+	position: absolute;
 }
